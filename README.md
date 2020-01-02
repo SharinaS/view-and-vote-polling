@@ -10,5 +10,9 @@ The project is built within a virtual environment.
 # Contributor
 Sharina Stubbs
 
-# Documentation
-Primary guidance for this project came from the Django Docs, specifically from the tutorial on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/).
+# Many Thanks
+To the Django Docs that provided a tutorial to learn from.
+
+# Resources
+* [Writing your first Django app, tutorial 01](https://docs.djangoproject.com/en/3.0/intro/tutorial01/).
+* [PEP8 Documentation of Naming Conventions](python.org/dev/pep-0008/#naming-conventions)
